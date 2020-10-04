@@ -1,6 +1,5 @@
 # bresto
 
-# benifitrio.github.io
 <h1>Dunia Bola</h1>
 Final Submission dari Kelas <a href="https://www.dicoding.com/academies/74">Membangun Progressive Web Apps (MPWA) </a> - di Dicoding.
 <p>Web App ini digunakan untuk melihat data klasemen dari 12 liga ternama di seluruh dunia, data diambil dari Football.data.org. Tidak hanya terbatas pada klasemen saja, berikut fitur lainnya:</p>
