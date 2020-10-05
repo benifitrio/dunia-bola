@@ -42,7 +42,7 @@ Favorite add Team kesayangan ke Local Storage agar tidak susah mencari jika ingi
  <hr>
  
  <h1>More</h1> <br>
-Website  : https://bressto.web.app/ <br>
+Website  : https://worldball-390fe.web.app/ <br>
 Twitter: @bendafit Instagram : @bendafit<br>
 WhatsApp : 082281308101<br>
 Email : benidanuarifitrio@gmail.com<br>
