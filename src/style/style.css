@@ -131,6 +131,12 @@ ul#view-mobile{
 
 
 /* mobile */
+@media (max-width:320px){
+    .mobile ul li.nav-item a {
+        padding: 0 .4rem;
+    }
+}
+
 @media (max-width:500px){
     #footer{
         display: none;
